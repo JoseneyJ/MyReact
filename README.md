@@ -1,6 +1,10 @@
 # MyReactPortoflio
 # Bootcamp Challenge 20
 
+## Task 
+
+Create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies. 
+
 ## User Story
 
 ```md
