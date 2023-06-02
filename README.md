@@ -1,14 +1,6 @@
 # MyReactPortoflio
 # Bootcamp Challenge 20
 
-## Deployed URL:
-
-https://joseneyj.github.io/MyReact/
-
-This application was deployed via GitHub. Here is the documentation for reference. 
-[Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) 
-
-
 ## User Story
 
 ```md
@@ -45,3 +37,12 @@ WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
+
+
+## Deployed URL:
+
+https://joseneyj.github.io/MyReact/
+
+This application was deployed via GitHub. Here is the documentation for reference. 
+[Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) 
+
