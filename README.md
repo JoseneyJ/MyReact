@@ -3,8 +3,9 @@
 
 ## Deployed URL:
 
+https://joseneyj.github.io/MyReact/
 
-This application. was deployed via GitHub. Here is the documentation for reference. 
+This application was deployed via GitHub. Here is the documentation for reference. 
 [Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) 
 
 
